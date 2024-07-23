@@ -1,5 +1,3 @@
-# Leetcode-SQL-50
-
 # LeetCode Top 50 SQL Solutions
 
 This repository contains my solutions to the LeetCode Top 50 SQL questions. These problems are part of the [LeetCode Top SQL 50 Study Plan](https://leetcode.com/studyplan/top-sql-50/), designed to help prepare for SQL-related interview questions.
